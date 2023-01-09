@@ -2,7 +2,7 @@
 
   This is a respository created by Josiah
 
-##Usage
+#Usage
 
 Run this command to execute the application:
 
